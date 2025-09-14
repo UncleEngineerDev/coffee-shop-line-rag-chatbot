@@ -1,0 +1,26 @@
+# Git & VCS
+.git
+.gitignore
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.pytest_cache/
+
+# Env & secrets (pass via --env-file or env_file)
+.env
+
+# OS / editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+*.log
+
